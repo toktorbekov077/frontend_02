@@ -1,0 +1,34 @@
+h1 {
+    color: blue;
+    text-align: center;
+    width: 25em;
+    line-height: normal;
+    margin-left: auto;
+    margin-right: auto;
+}
+p {
+    width: 400px;
+    text-align: justify;
+    margin-left: auto;
+    margin-right: auto;
+    text-indent: 20px;
+    font-family: 'Arial', sans-serif;
+
+}
+b {
+    color: red;
+}
+i {
+    color: blue;
+    text-align: justify;
+    width: border-box;
+    line-height: normal;
+}
+h2 {
+    color: blue;
+    text-align: center;
+    width: 25em;
+    line-height: normal;
+    margin-right: auto;
+    margin-left: auto;
+}

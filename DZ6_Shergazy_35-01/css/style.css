@@ -1,0 +1,362 @@
+.main {
+    height: 100vh;
+    background-image: url(../images/image-main.webp);
+    background-repeat: no-repeat;
+    background-position:top center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    color: #fff;
+    text-align: center;
+}
+.main h1 {
+    font-size: 56px;
+}
+.main p {
+    width: 867px;
+    margin: 24px auto 45px;
+    line-height: 155%;
+}
+
+
+.course{
+    margin: 134px 0 0 0;
+
+}
+
+
+.course__inner{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.container-one {
+    height: 433px;
+    background-image: url(../images/course-image.webp);
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size:cover;
+    display: flex;
+    align-items: center;
+    color: #fff;
+
+    width: 595px;
+
+    border-radius: 4px;
+
+
+}
+
+.img {
+    margin: 40px auto 0;
+}
+
+
+.left-block p {
+    display: flex;
+    color: #555;
+    line-height: 155%;
+    width: 478px;
+    margin: 24px 0 0 0 ;
+    gap: 24px;
+
+}
+.text3 {
+    display: flex;
+    width: 489px;
+    color: #333;
+    font-size: 20px;
+    line-height: 28px;
+    margin: 16px 0 0 0 ;
+
+    align-items: center;
+}
+.btn-b {
+    display: flex;
+    padding: 16px 32px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 32px;
+}
+
+
+.course__inner_h2{
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    width: 519px;
+
+}
+.lorem {
+    width: 423px;
+    height: 50px;
+    line-height: 25px;
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 12px;
+}
+
+.icon {
+    margin-left: 162px;
+    display: flex;
+
+
+}
+.bottom {
+    width: 211px;
+    height: 31px;
+    padding-top: 16px;
+    display: flex;
+    gap: 153px;
+    font-size: 14px;
+    line-height: 22px;
+    text-align: center;
+    margin-top: 16px;
+
+}
+
+.learn {
+    display: flex;
+    width: 211px;
+    margin-top: 200px;
+    padding-top: 90px;
+    height: 31px;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 31px;
+    text-align: center;
+
+    align-items: center;
+}
+.writing {
+    width: 159px;
+    height: 31px;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 31px;
+    text-align: center;
+
+
+}
+.time {
+    width: 206px;
+    height: 31px;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 31px;
+    text-align: center;
+}
+.sessions {
+    width: 234px;
+    height: 31px;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 31px;
+    text-align: center;
+}
+.img1 {
+    padding-bottom: 70px;
+    padding-left: 70px;
+    padding-top: 100px;
+    margin-right: -70px;
+
+}
+.img_notes {
+    padding-top: 110px;
+}
+.choice {
+    padding-top: 110px;
+}
+.technical {
+    padding-top: 110px;
+}
+#one {
+    margin-right: 70px;
+    margin-top: -60px;
+}
+.info {
+    width: 1138px;
+    margin: -40px auto 0;
+    background-color: #fff;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 4px;
+    padding: 56px 88px;
+    box-shadow: 0 11px 35px 0 rgba(0, 0, 0, 0.08);
+}
+.info__item {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+}
+.info__item span {
+    font-size: 36px;
+    color: #222;
+    font-weight: 700;
+
+}
+.info__item p {
+    line-height: 25px;
+    text-align: left;
+    margin-top: 8px;
+    color: #086CF9;
+
+}
+.information_inner {
+    display: flex;
+    justify-content: center;
+}
+.work {
+    margin-top: 134px;
+}
+/*.transform {*/
+/*    width: 800px;*/
+/*    margin: 150px auto;*/
+/*    padding: 20px;*/
+/*    background-color: #131a7c;*/
+/*    display: flex;*/
+/*    justify-content: space-between;*/
+/*    gap: 20px;*/
+/*}*/
+/*.transform div {*/
+/*    width: 175px;*/
+/*    height: 175px;*/
+/*    background-color: #6c0513;*/
+/*    display: flex;*/
+/*    color: #fff;*/
+/*    align-items: center;*/
+/*    justify-content: center;*/
+/*    transition: 1s;*/
+/*}*/
+/*.transform:hover .translate {*/
+/*    transform: translate(-20px, -20px);*/
+/*}*/
+/*.transform:hover .rotate {*/
+/*    transform: rotate(45deg);*/
+/*}*/
+/*.transform:hover .scale {*/
+/*    transform: scale(.6);*/
+/*}*/
+/*.transform:hover .skew {*/
+/*    transform: skew(-20deg, 0);*/
+/*}*/
+.container1 {
+    display: flex;
+    justify-content: center;
+}
+.courses {
+    background-color: #ECF4FF;
+    margin-top: 128px;
+    width: 1660px;
+    height: 1393px;
+    display: inline-block;
+}
+.courses_inner {
+    display: flex;
+    flex-wrap: wrap;
+}
+.courses__inner {
+    margin: 60px 483px 0;
+}
+.courses__inner h2 {
+    width: 625px;
+    height: 62px;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 62px;
+    color: #000;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+}
+.courses__inner p {
+    width: 674px;
+    height: 50px;
+    font-size: 16px;
+    line-height: 25px;
+    text-align: center;
+    color: #555;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 12px;
+
+}
+.courses1 {
+    height: 483px;
+    background-color: #fff;
+    border-radius: 6px;
+    margin-top: 48px;
+    margin-left: 144px;
+    display: inline-block;
+}
+.courses_img img {
+    margin-left: 24px;
+    margin-top: 24px;
+}
+.courses2 {
+    display: flex;
+    justify-content: space-between;
+    gap: 18px;
+    margin-top: 24px;
+    margin-left: 24px;
+    margin-right: 24px;
+    line-height: 25px;
+    align-items: center;
+}
+.line {
+    margin-top: 24px;
+    margin-left: 24px;
+}
+.development {
+    margin-top: 20px;
+    display: flex;
+
+    justify-content: space-between;
+    text-align: justify;
+}
+.development h4 {
+    width: 281px;
+    height: 31px;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 31px;
+    margin-left: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.development span {
+    width: 55px;
+    height: 31px;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 31px;
+    color: #086CF9;
+    margin-right: 24px;
+
+}
+.online_bottom_block {
+    margin-top: 18px;
+    margin-left: 24px;
+}
+.online_bottom_block p {
+    font-size: 14px;
+    line-height: 22px;
+    color: #555;
+    width: 319px;
+    height: 66px;
+}
+.transform:hover .scale{
+    transform: scale(1.1);
+}
+.transform div {
+    transition: 1s 200ms;
+}
+.text {
+    text-align: justify;
+    width: 218px;
+}
+

@@ -1,0 +1,29 @@
+.one {
+    width: 500px;
+    margin: 20px auto;
+    border: 5px solid #ff0000;
+    background-color: #66bdf3;
+    padding: 20px;
+    box-sizing: border-box;
+}
+* {
+    box-sizing: border-box;
+}
+html {
+    font-size: 14px;
+}
+.parent {
+    font-size: 2em;
+}
+.parent div {
+    font-size: 2em;
+}
+.parent p {
+    font-size: 2rem;
+}
+.rel {
+    width: 500px;
+    height: 500px;
+    background-color: #2e77d5;
+    margin: 50px auto;
+}

@@ -1,0 +1,17 @@
+#one {
+    color: brown;
+}
+.one {
+  color: green;
+}
+div {
+    color: red !important;
+}
+div {
+    color: blue;
+}
+p {
+    width: 500px    ;
+    text-align: center;
+    line-height: 24px   ;
+}

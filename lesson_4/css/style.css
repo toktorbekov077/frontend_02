@@ -1,0 +1,23 @@
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    /*height: 250px;*/
+    background-color: #199889;
+    gap: 20px 10px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.flexible {
+    width: 300px;
+    flex:1 1 300px;
+    background-color: #d3a747;
+    color: white;
+    padding: 20px;
+    font-size: 20px;
+}
